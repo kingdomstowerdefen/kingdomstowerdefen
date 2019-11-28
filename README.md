@@ -1,2 +1,2 @@
 ===kingdomstowerdefen=== 
-{ "url": "https://d.apps.yayawan.com/h5/games/gameloadtf.html?g=zgfknzgios", "status": "1" } ===kingdomstowerdefen===
+{ "url": "https://cdn.xcstuido.com/tgame/h5/caohua/index.html?gid=1000938&time=1569314336", "status": "1" } ===kingdomstowerdefen===
