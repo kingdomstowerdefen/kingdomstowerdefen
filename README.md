@@ -1,6 +1,6 @@
 ===kingdomstowerdefen===
 {
-    "url": "https://cdn.xcstuido.com/tgame/h5/caohua/index.html?gid=1000938&time=1569314336",
-    "status": "0"
+    "url": "https://rest.yayawan.com/h5/lztfios/",
+    "status": "1"
 }
 ===kingdomstowerdefen===
